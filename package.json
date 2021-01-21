@@ -1,0 +1,17 @@
+{
+  "name": "discordbot_ping",
+  "version": "1.0.0",
+  "description": "Discord bot that lets you ping different League of Legends servers ahead of game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danieltsanghang",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ping": "^0.4.0"
+  }
+}
